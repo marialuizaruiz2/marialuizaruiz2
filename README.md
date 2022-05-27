@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é @marialuizaruiz2
+- meu email de contato é maria.ruiz.rocha@escola.pr.gov.br
+- estou interessado em aprender novas linguagens 
+- 🌱 estou aprendendo a programar a linguagem de JavaScript e Scratch
